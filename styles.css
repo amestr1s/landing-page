@@ -1,0 +1,14 @@
+* {
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    margin: auto 18px auto 18px;
+}
+
+.headerlink {
+    display: flex;
+    gap: 8px;
+}
